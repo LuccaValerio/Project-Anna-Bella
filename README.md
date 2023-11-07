@@ -1,1 +1,1 @@
-# Project-Anna-Bella
+# The Anna Bella Project is a fictional website of a model styled in CSS, applying basic CSS concepts with a well-structured HTML code. To use the website, simply download all the files and place them in a folder, then do doble click on the "index.html" so that it opens with Chrome, Opera, FireFox or any browser you are using.
